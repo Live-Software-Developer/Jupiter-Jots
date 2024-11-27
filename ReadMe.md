@@ -48,7 +48,7 @@ This is a beta release of the extension. To install it, follow the steps below:
    - Click on the **Load unpacked** button that appears in the top-left corner.
 
 5. **Select the Extension Folder**  
-   - If you cloned the repository, navigate to the folder named `jupiter_jots_chrome_extension` and select it.  
-   - If you downloaded the repository as a ZIP file, unzip it first, then select the extracted `jupiter_jots_chrome_extension` folder.
+   - If you cloned the repository, navigate to the folder named `dist` and select it.  
+   - If you downloaded the repository as a ZIP file, unzip it first, then select the extracted `dist` folder.
 
 The extension will now be installed and available in Chrome. You can pin it to the toolbar for easy access.

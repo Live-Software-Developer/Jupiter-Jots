@@ -2,10 +2,12 @@ node_modules
 public
 src
 jupiter_jots_chrome_extension.zip
-CHANGELOG.md
 help.md
 package.json
 tsconfig.json
 tsconfig.node.json
 vite.config.ts
 yarn.lock
+
+!dist/index.html
+/index.html
