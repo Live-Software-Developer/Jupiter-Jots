@@ -2,6 +2,9 @@
 
 Beta release for chrome browsers
 
+![Chrome Extension](/assets/extension.png)
+![Full View](/assets/full_view.png)
+
 ### Extension Description
 
 **"Jupiter Jots: Your Universal Bookmarking Assistant"**  
