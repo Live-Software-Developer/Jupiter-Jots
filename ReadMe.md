@@ -2,11 +2,11 @@
 
 Beta release for chrome browsers
 
-### Extension Description: 
+### Extension Description
 
 **"Jupiter Jots: Your Universal Bookmarking Assistant"**  
 
---Entire description: Effortlessly save, organize, and access your bookmarks with advanced tagging, visual customization, and smart reminders. Jupiter Jots is your ultimate tool for seamless web content management.
+Effortlessly save, organize, and access your bookmarks with advanced tagging, visual customization, and smart reminders. Jupiter Jots is your ultimate tool for seamless web content management.
 
 Effortlessly capture, organize, and personalize your favorite web content with Jupiter Jots. Designed to simplify your digital experience, this extension offers a powerful and intuitive way to save and revisit the moments that matter.  
 
