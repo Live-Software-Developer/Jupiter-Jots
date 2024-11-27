@@ -29,7 +29,7 @@ This is a beta release of the extension. To install it, follow the steps below:
 1. **Clone or Download the Repository**  
    - Clone the repository using the command:  
      ```bash
-     git clone <repository_url>
+     git clone https://github.com/Live-Software-Developer/Jupiter-Jots
      ```  
      or download the repository as a ZIP file.
 
