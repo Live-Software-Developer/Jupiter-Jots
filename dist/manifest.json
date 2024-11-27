@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Jupiter Jots",
-  "version": "1.0",
+  "version": "1.2.0",
   "description": "Effortlessly save, organize, and access your bookmarks with advanced tagging, visual customization, and smart reminders.",
   "permissions": [
     "storage",
